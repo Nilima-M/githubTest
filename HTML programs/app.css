@@ -1,0 +1,26 @@
+h1{
+	color: red;
+	/*border: 5px solid purple;*/
+}
+
+h3{
+	color: orange;
+}
+ li{
+ 	color: purple;
+ }
+ body{
+ 	background: pink;
+ }
+ table{
+ 	background-color: red;
+ }
+ div{
+ 	border: 2px solid black;
+ }
+ p{
+ 	background-color: yellow;
+ }
+ #list1{
+ 	background-color: orange;
+ }

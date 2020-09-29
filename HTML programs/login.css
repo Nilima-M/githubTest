@@ -1,0 +1,22 @@
+.myDiv{
+	 border: 5px outset red;
+  background-color: lightblue;    
+  
+}
+/*.bs-example {
+		margin: 20px;
+	}*/
+ .form-control:focus {
+        border-color: #ff80ff;
+        box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(255, 100, 255, 0.5);
+    }
+   .div{
+        width: 900px;
+  height: 900px;
+  padding: 100px;
+  border: 1px solid red;
+   }
+   #container{
+   	text-align: center;
+   	padiing-top: 50px;
+   }
